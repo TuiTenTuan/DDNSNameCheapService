@@ -45,5 +45,15 @@ namespace SystemUltility
         {
             return Path.Combine(ApplicationPath(), SystemConfig.Instance.Profiles);
         }
+
+        public string PipeNameServerSent()
+        {
+            return SystemConfig.Instance.AppName + "_" + SystemConfig.Instance.CommunicationServerSend;
+        }
+
+        public string PipeNameServerRead()
+        {
+            return SystemConfig.Instance.AppName + "_" + SystemConfig.Instance.CommunicationServerRead;
+        }
     }
 }

@@ -27,5 +27,9 @@ namespace SystemUltility
         public string ApplicationLogs = "Run";
 
         public string DefaultProfileNameFile = "Profile";
+
+        public string CommunicationServerSend = "Send";
+
+        public string CommunicationServerRead = "Read";
     }
 }

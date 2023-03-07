@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DDNSNameCheapService
+namespace SystemUltility
 {
     public class Profile
     {
