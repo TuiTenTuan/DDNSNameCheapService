@@ -49,8 +49,6 @@
     <Compile Include="DDNSServices.Designer.cs">
       <DependentUpon>DDNSServices.cs</DependentUpon>
     </Compile>
-    <Compile Include="Profile.cs" />
-    <Compile Include="ProfileStorage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
