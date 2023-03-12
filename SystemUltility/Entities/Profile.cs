@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SystemUltility
+namespace SystemUltility.Entities
 {
     public class Profile
     {

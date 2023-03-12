@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.IO.IsolatedStorage;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
-using SystemVariable;
+using System;
+using SystemUltility.Entities;
+using SystemUltility.Configs;
 
 namespace SystemUltility
 {
@@ -160,7 +160,7 @@ namespace SystemUltility
                         logs = serializer.Deserialize(sr) as List<UpdateLogging>;
                         WriteSystemLogs("Read logs successfull");
                     }
-                    catch(Exception e)
+                    catch (Exception e)
                     {
                         WriteSystemLogs("Read logs fail. " + e.Message);
                     }

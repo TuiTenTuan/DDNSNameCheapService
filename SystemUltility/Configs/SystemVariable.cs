@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SystemUltility
+namespace SystemUltility.Configs
 {
     public class SystemVariable
     {

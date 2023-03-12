@@ -59,8 +59,8 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SystemVariable\SystemUltility.csproj">
-      <Project>{ff3c3d03-4d68-4e26-9bad-750975fc0988}</Project>
+    <ProjectReference Include="..\SystemUltility\SystemUltility.csproj">
+      <Project>{fdbb8eab-9c43-4649-bb6c-017113e51375}</Project>
       <Name>SystemUltility</Name>
     </ProjectReference>
   </ItemGroup>

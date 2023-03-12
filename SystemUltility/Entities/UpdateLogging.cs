@@ -1,7 +1,6 @@
 ﻿using System;
-using SystemUltility;
 
-namespace SystemVariable
+namespace SystemUltility.Entities
 {
     public class UpdateLogging : Profile
     {

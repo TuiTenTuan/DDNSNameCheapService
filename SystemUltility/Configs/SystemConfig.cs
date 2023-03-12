@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SystemUltility
+﻿namespace SystemUltility.Configs
 {
     public class SystemConfig
     {

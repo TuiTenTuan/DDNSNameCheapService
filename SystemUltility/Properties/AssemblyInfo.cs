@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SystemVariable")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SystemUltility")]
+[assembly: AssemblyDescription("Library of DDNSNameCheap")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SystemVariable")]
+[assembly: AssemblyCompany("TuiTenTuan Company")]
+[assembly: AssemblyProduct("SystemUltility")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ff3c3d03-4d68-4e26-9bad-750975fc0988")]
+[assembly: Guid("fdbb8eab-9c43-4649-bb6c-017113e51375")]
 
 // Version information for an assembly consists of the following four values:
 //
